@@ -1,0 +1,10 @@
+body{
+    background-color: #000;
+    color: #ccee11;
+}
+h1 a{
+    color: #ff77ee;
+}
+ul li a, p a{
+    color: #7777ee;
+}
